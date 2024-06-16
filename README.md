@@ -59,8 +59,6 @@
 
 > **Generative AI** refers to a class of artificial intelligence techniques and algorithms designed to generate new content, data, or outputs that mimic or are similar to those found in the training data it has been exposed to. Unlike traditional AI, which recognizes patterns or makes predictions based on existing data, generative AI can create entirely new content. 
 
-![image](https://github.com/Mustafa-Shoukat1/-Transformer-Arch-GenAI-Guide-Insights/assets/162743520/07afd048-b6d5-44e0-8e62-ec184a9221e6)
-
 
 **Key Approaches in Generative AI**
 
@@ -78,7 +76,4 @@
 
 Generative AI is transforming how we create and interact with digital content, offering innovative solutions across various fields.
 
-
-**Applications of Generative AI in Bussniess**
-
-![image.png](attachment:5462de2f-d7f8-4923-9246-3b91458e45e8.png)
+![image](https://github.com/Mustafa-Shoukat1/-Transformer-Arch-GenAI-Guide-Insights/assets/162743520/07afd048-b6d5-44e0-8e62-ec184a9221e6)
