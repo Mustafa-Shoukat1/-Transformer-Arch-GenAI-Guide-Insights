@@ -54,11 +54,13 @@
 
 
 
-![img](https://th.bing.com/th/id/OIP.fP5za5VwpuF0I64F72jJgwHaDr?rs=1&pid=ImgDetMain) 
+![image](https://github.com/Mustafa-Shoukat1/-Transformer-Arch-GenAI-Guide-Insights/assets/162743520/3ca3f876-9591-41d1-9d7c-6e40fb0ee5ee)
+
 
 > **Generative AI** refers to a class of artificial intelligence techniques and algorithms designed to generate new content, data, or outputs that mimic or are similar to those found in the training data it has been exposed to. Unlike traditional AI, which recognizes patterns or makes predictions based on existing data, generative AI can create entirely new content. 
 
-![image.png](attachment:962eed1d-97a3-43d9-85d3-d78121abd607.png)
+![image](https://github.com/Mustafa-Shoukat1/-Transformer-Arch-GenAI-Guide-Insights/assets/162743520/07afd048-b6d5-44e0-8e62-ec184a9221e6)
+
 
 **Key Approaches in Generative AI**
 
